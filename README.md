@@ -1,7 +1,7 @@
 # Air-Canvas
 The Air Canvas Project is an innovative application that combines computer vision and gesture recognition to enable users to draw and write in the air using their fingers. By leveraging the power of OpenCV and NumPy libraries, this project revolutionizes the way we interact with digital interfaces.The project features a motion-to-text converter.
 
-# Features
+# Featuress
 •	Real-time tracking of finger movements using computer vision techniques
 
 •	Convert finger gestures into digital drawings and text (motion-to-text converter)
